@@ -1,9 +1,5 @@
 target/
 .idea/
-*.iml
-*.ipr
-*.iws
-out/
-.mvn/wrapper/maven-wrapper.jar
 .DS_Store
-*.log
+out/
+*.class
